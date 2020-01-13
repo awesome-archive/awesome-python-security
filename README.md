@@ -7,10 +7,17 @@ A curated list of awesome Python security related resources.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
-Supported by: [GuardRails.io](https://github.com/apps/guardrails)
+Supported by: [GuardRails.io](https://www.guardrails.io)
 
 </div>
 <br/>
+
+# Contents
+- [Tools](#tools)
+- [Educational](#educational)
+- [Companies](#companies)
+- [Other](#other)
+- [Contributing](#contributing)
 
 # Tools
 
@@ -41,10 +48,19 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-10210/product_id-18230/Python-Python.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=python&search_type=all) - Python known vulnerabilities in the National Vulnerability Database.
 
+## Penetration Testing
+
+- [EvilTwinFramework](https://github.com/Esser420/EvilTwinFramework) - A framework for pentesters that facilitates evil twin attacks as well as exploiting other wifi vulnerabilities.
+- [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+
 ## Cryptography
 
 - [Passlib](https://bitbucket.org/ecollins/passlib) - Secure password storage/hashing library, very high level.
 - [PyNacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+
+## Application Templates
+
+- [wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge `django` template focused on code quality and security.
 
 # Educational
 
